@@ -23,3 +23,4 @@ dependencies:
       - streamlit==1.49.1
       - tqdm==4.67.1
       - typeguard==4.4.4
+      - ydata-profiling==4.16.1
