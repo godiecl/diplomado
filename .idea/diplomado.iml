@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/scripts" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/data" />
       <excludeFolder url="file://$MODULE_DIR$/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/output" />
     </content>
     <orderEntry type="jdk" jdkName="diplomado" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
